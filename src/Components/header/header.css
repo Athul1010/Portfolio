@@ -1,3 +1,8 @@
+
+
+.icons{
+    color: white;
+}
 header{
     height:100vh;
     padding-top:7rem;
@@ -32,8 +37,8 @@ header{
     content: "";
     width: 1px;
     height: 2rem;
-    background:var(--color-primary);
-
+    /* background:var(--color-primary); */
+    background-color: white;
 }
 /* ME */
 .me{
@@ -56,6 +61,7 @@ header{
     transform: rotate(90deg);
     font-weight: 200;
     font-size: 0.9rem;
+    color: white;
 }
 
 
