@@ -50,9 +50,9 @@ h1,h2,h3,h4,h5{
 h1{
   font-size: 2.5rem;
 }
-section{
+/* section{
   margin-top: 8rem;
-}
+} */
 
 section>h2,section>h5{
   text-align: center;
@@ -113,10 +113,10 @@ img{
   .container{
     width: var(--container-width-md);
   }
-  section{
+  /* section{
     margin-top: 6rem;
   
-  }
+  } */
 }
 /* small */
 
@@ -129,3 +129,8 @@ img{
   }
 
 }
+
+
+/* #665543 */
+
+/* #a27558 */

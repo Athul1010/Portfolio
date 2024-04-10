@@ -30,13 +30,10 @@ const About = () => {
 
 
           </div>
-          <p>In pursuit of professional advancement and continuous growth, I am seeking an environment that not
-             only fosters my expertise in JavaScript and software program development but also provides a vast
-              array of educational opportunities. My passion lies in exploring cutting-edge technologies and 
-              pioneering novel ideas, making me an ideal fit for an organization that values innovation and embraces 
-              forward-thinking approaches in the software development industry. I am eager to contribute my skills
-               and thrive in a space where creativity and learning intersect, propelling both my career and the
-                organization to new heights. </p>
+          <div className='about-details'>
+            <p>I am Athulraj T, a Mechanical Engineering graduate with a newfound passion for software development. Throughout my journey at Government Engineering College Wayanad, I honed my skills in problem-solving and analytical thinking. After completing my degree, I embarked on a transformative training in MERN Stack at Jspiders, Bangalore, fueling my enthusiasm for coding and development .</p>
+            <p className='second-paragraph'>During my tenure as a Frontend Developer at Weamse Business Solutions, I immersed myself in various projects, both internal and external, refining my ability to craft intuitive user interfaces that seamlessly blend form with function. Now, driven by a relentless curiosity, I am dedicated to broadening my expertise in backend technologies, eager to contribute my skills to innovative projects in the software development domain .</p>
+          </div>
           <a href="#contact" className='btn btn-primary'>Lets Talk</a>
         </div>
       </div>

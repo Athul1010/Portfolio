@@ -1,10 +1,14 @@
+#education-status{
+    padding-top: 4rem;
+}
+
 .education__container{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     /* justify-content:space-between; */
     gap: 1rem;
-    margin-bottom: 4rem;
-    /* max-width: fit-content; */
+    
+    
 }
 
 .education {

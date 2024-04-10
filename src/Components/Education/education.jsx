@@ -4,7 +4,7 @@ import { IoMdSchool } from 'react-icons/io'
 import { FaSchool } from 'react-icons/fa'
 const Education = () => {
   return (
-    <section id='education'>
+    <section id='education-status'>
       <h5>Education</h5>
       <h2>Education Highlights</h2>
       <div className="container education__container">
